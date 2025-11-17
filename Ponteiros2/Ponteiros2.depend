@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1763420148 source:c:\users\marrie\desktop\aulas\programacaoestruturada\ponteiros2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
